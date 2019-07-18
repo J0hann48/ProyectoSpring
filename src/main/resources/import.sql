@@ -1,0 +1,13 @@
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Ramirez', '2018-07-06', 'valeri@gmail.com', 'Valeri');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Hortua', '2018-05-06', 'laura@gmail.com', 'Laura');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Renjifo', '2018-03-06', 'carlos@gmail.com', 'Carlos');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Angarita', '2018-09-06', 'p5edro@gmail.com', 'Pedro');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Mcquein', '2018-10-06', 'juliana@gmail.com', 'Juliana');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Guadalupe', '2018-12-06', 'miguel78@gmail.com', 'Miguel');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Parra', '2018-11-06', 'aleja5@gmail.com', 'Alejandra');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Lopez', '2015-07-06', 'jhon56@gmail.com', 'Jhon');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Cabrejo', '2013-07-06', 'cristian@gmail.com', 'Cristian');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Ortiz', '2012-01-06', 'valentina@gmail.com', 'Valentina');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Arboleda', '2011-04-06', 'paola@gmail.com', 'Paola');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Angulo', '2010-07-06', 'daniela@gmail.com', 'Daniela');
+INSERT INTO `sprintboot`.`clientes` (`apellido`, `create_at`, `mail`, `nombre`) VALUES ('Solarte', '2003-07-06', 'luisa@gmail.com', 'Luisa');
