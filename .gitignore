@@ -43,6 +43,8 @@ activemq-data/
 
 classes/
 /build
+/.idea
+/idea
 buildSrc/build
 /spring-*/build
 /src/asciidoc/build
